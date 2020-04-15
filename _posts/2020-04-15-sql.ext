@@ -1,0 +1,42 @@
+---
+title: "SQL Basics"
+last_modified_at: 2020-04-15T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - Datawarehouse
+  - SQL
+  - Modellierung
+  - Star Schema
+  - Data Vault
+---
+
+Warum ist SQL wichtig
+
+SQL ist einfach und schnell zu lernen. Natürlich kommt es drauf an wofür ihr es nutzt. Sobald es in Richtung Datawarehousing geht, reicht ein wenig SQL meistens nicht aus. Dafür ist es gut, weitere Schulungen zu beuschen und sich auch um die Modellierung Gedanken zu machen. Ich sprach letztens mit ein paar Kollegen und wir stellten rasch fest, dass wir nie die 3. Normallform im produktiven Einsatz gesehen haben oder erstellen mussten.
+Die Alternativen dazu waren immer eine Modellierung nach:
+<ul>
+    <li> Star Schema </li>
+    <li> Snowflake Schema </li>
+    <li> Data Vault 2.0 </li>
+</ul>
+
+Das Star Schema ist recht leicht zu merken und kann sehr hilfreich sein bei der Modellierung von Data Marts.
+
+Data Vault hingegen, hat den großen Vorteil einer bereits bestehenden Historisierung. Dies kann ebenfalls im Star Schema erreicht werden durch eine Head Versioning Modellierung, auf die hier nicht weiter eingegangen werden soll.
+
+
+Einfache und klassischerweise nützliche SQL Queries:
+
+{% highlight ruby %}
+select * from tablename;
+
+create table new_tablename as
+select * from tablename;
+
+drop table if exists tablename;
+# new ddl
+insert into new_tablename;
+{% endhighlight %}
+
+Keine Angst, dieser Artikel wird mit der Zeit weiter aktualisiert.

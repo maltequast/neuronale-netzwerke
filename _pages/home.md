@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: /posts/
-layout: posts
+layout: single
+permalink: /home/
 author_profile: true
 ---

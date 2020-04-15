@@ -3,10 +3,10 @@
 #
 
 # The name of your site (displayed in the header)
-name: Site Name
+name: Neuronale Netzwerke
 
 # A short bio or description (displayed in the header)
-description: Your Site Description
+description: Data Scientist mit Fokus auf Computer Vision 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -17,7 +17,7 @@ url:
 #   1. Go to https://github.com/YOURUSERNAME/
 #   2. Right click and Copy Image URL on your profile pic,
 #   3. Take the first long ID from the URL and paste it in place of mine below
-avatar: http://www.gravatar.com/avatar/36b4f56a7fa40d3c06e5afc4ed0b82b5?s=200
+avatar: https://avatars2.githubusercontent.com/u/40795540?s=400&u=61b6b9370a6d0c1b9bd11eaa47ce8a1ec4c51d8c&v=4 
 
 # Your disqus username, entering this will enable commenting on posts
 disqus: 
@@ -31,12 +31,12 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: your-username
+  github: maltequast 
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" at the top of this file!
-  twitter: your-username
+  twitter: 
 
 #
 # !! You don't need to change any of the configuration flags below !!

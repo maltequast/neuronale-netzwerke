@@ -1,0 +1,22 @@
+---
+title: "Post: Background"
+last_modified_at: 2020-04-15T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - Background
+  - Welcome
+  - Python
+  - R
+---
+
+Warum erstelle ich diese Seite und was wichtig ist
+
+Für mich ist klar, dass ich diese Seite selbst nutzen werden als eine Art Wiki für mich. Selbstverständlich kann sie auch jeder andere Lesen und das aus guten Grund.
+Ich bin der Meinung, dass wir unser Wissen teilen sollten und jedem die Chance geben sollten sich weiterzubilden. Ich habe selbst einen Hintergrund in Betriebswirtschaft und Statistik.
+Damals war ich bereits der festen Überzeugung mit der Programmiersprache R weiter zu kommen. Dies mag auch angehen, zumindst weiß ich von mehreren Großunternehmen, dass sie es nutzen.
+Ebenfalls nutzen Universitäten und Fachhochschulen gerne die Open Source Sprache R. Sobald es jedoch um Produktionalisierung, Tracking und Skalierung von statistischen Modellen geht,
+schlägt R recht schnell fehl. Aus diesem Grund ist es umso wichtiger, weitere Sprachen zu lernen oder bereits zu beherrschen. Oftmals wird Python (auch hier) genutzt. Die Sprache bietet
+viele Libraries und Möglichkeiten zum Hosting. Außerdem ist es die gefragteste Sprache für Data Scientisten. Daten Aggregation, Modellierung, Automatisierung und arbeiten in der Cloud sind hiermit ohne weitere möglich.
+
+Genug Lobeshymnen auf Python. Lasst uns coden!

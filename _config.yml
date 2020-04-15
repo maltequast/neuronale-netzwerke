@@ -23,6 +23,7 @@ search: true
 
 # Build settings
 markdown: kramdown
+minimal_mistakes_skin: contrast
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/

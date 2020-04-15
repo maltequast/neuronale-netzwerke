@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi ich bin Malte und ich freue mich, dass du auf meine Seite gefunden hast. Ich arbeite leidenschaftlich gerne mit Daten. Ich arbeite gerne mit Bilddaten, aber ebenfalls mit strukturierten Daten wie aus relationalen Datenbanken.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hier soll es vorrangig um den Bereich der Computer Vision gehen und ich möchte mein Wissen gerne mit euch teilen.
+
+Schaut euch gerne meine Posts an, mit der Zeit werden es hoffentlich immer mehr und natürlich teile ich auch meine Usecases mit euch und zeige wie ich diese gelöst habe.
+
+Viel spaß und hoffentlich schaut ihr bald wieder rein.

@@ -13,14 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Neuronale Netzwerke
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Deep Learning, neuronale Netzwerke für Computer Vision  mit PyTorch und OpenCV.
+github_username: maltequast
 minimal_mistakes_skin: default
 search: true
 
@@ -35,6 +32,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
+  - _data
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -58,34 +57,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Malte Quast"
+  avatar: "https://avatars2.githubusercontent.com/u/40795540?s=400&u=61b6b9370a6d0c1b9bd11eaa47ce8a1ec4c51d8c&v=4"
+  #avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Hi ich bin Malte und Data Scientist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "www.neuronale-netzwerke.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/maltequast"
+    - label: "Biografie"
+      icon: "fas fa-fw fa-link"
+      url: "http://maltequast.de"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/maltequast"
 
 defaults:
   # _posts

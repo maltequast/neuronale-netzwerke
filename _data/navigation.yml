@@ -1,5 +1,7 @@
 main:
   - title: "Home"
+    url: /index/
+  - title: "Post"
     url: /posts/
   - title: "Tags"
     url: /tags/

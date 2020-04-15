@@ -13,12 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "de-DE"
 title: Neuronale Netzwerke
+subtitle: "Computer Vision mit PyTorch & OpenCV"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Deep Learning, neuronale Netzwerke für Computer Vision  mit PyTorch und OpenCV.
 github_username: maltequast
 minimal_mistakes_skin: default
+words_per_minute: 200
 search: true
 
 # Build settings
